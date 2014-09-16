@@ -1,4 +1,4 @@
-apk_samples
+APK Samples
 ===========
 
 Examples of the obfuscated APKs (using manifesto and/or other techniques):
